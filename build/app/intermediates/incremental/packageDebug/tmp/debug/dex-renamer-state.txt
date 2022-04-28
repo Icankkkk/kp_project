@@ -1,0 +1,4 @@
+#Thu Apr 28 22:33:56 WIB 2022
+base.0=/home/icang/flutter-project/kp_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
